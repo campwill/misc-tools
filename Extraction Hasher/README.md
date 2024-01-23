@@ -1,0 +1,1 @@
+continue project for some automated CLI hashing tool
