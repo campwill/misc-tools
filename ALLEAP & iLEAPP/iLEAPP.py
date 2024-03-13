@@ -16,9 +16,6 @@ def internet_on():
         return False
 
 if internet_on():
-    for name in 'src':
-        if name == "ileappGUI.exe":
-            os.remove(name)
 
     g = Github(ACCESS_TOKEN)
 
